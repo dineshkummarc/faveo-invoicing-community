@@ -2846,4 +2846,8 @@ return [
     'active_plan_exists' => 'Bu ürün ve dönem için ":plan_name" adında aktif bir plan zaten var. Aktif bir plan oluşturmadan/güncellemeden önce lütfen bunu devre dışı bırakın.',
     'check_to_make_plan_active' => 'Bu planı aktif yapmak için işaretleyin. Ürün ve dönem başına yalnızca bir aktif plana izin verilir.',
     'active_plan_exists_simple' => 'Bu ürün ve dönem için aktif bir plan zaten var. Lütfen önce bunu devre dışı bırakın.',
+
+    'attempt' => 'Deneme',
+    'sent_at' => 'Gönderilme Zamanı',
+    'delivered_at' => 'Teslim Zamanı',
 ];

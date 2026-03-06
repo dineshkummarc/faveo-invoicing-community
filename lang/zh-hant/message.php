@@ -2787,4 +2787,8 @@ return [
     'active_plan_exists' => '此產品和期間已存在活動計畫「:plan_name」。請在建立/更新活動計畫之前先將其停用。',
     'check_to_make_plan_active' => '勾選以啟用此計畫。每個產品和期間僅允許一個活動計畫。',
     'active_plan_exists_simple' => '此產品和期間已存在活動計畫。請先將其停用。',
+
+    'attempt' => '嘗試',
+    'sent_at' => '發送時間',
+    'delivered_at' => '送達時間',
 ];

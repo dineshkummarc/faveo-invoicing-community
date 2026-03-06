@@ -2852,4 +2852,8 @@ return [
     'active_plan_exists' => '이 제품 및 기간에 대해 활성 요금제 ":plan_name"이(가) 이미 존재합니다. 활성 요금제를 생성/업데이트하기 전에 먼저 비활성화하십시오.',
     'check_to_make_plan_active' => '이 요금제를 활성화하려면 선택하십시오. 제품 및 기간당 하나의 활성 요금제만 허용됩니다.',
     'active_plan_exists_simple' => '이 제품 및 기간에 대해 활성 요금제가 이미 존재합니다. 먼저 비활성화하십시오.',
+
+    'attempt' => '시도',
+    'sent_at' => '발송 시간',
+    'delivered_at' => '전달 시간',
 ];

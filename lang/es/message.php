@@ -2832,4 +2832,8 @@ return [
     'active_plan_exists' => 'Ya existe un plan activo ":plan_name" para este producto y período. Por favor, desactívelo primero antes de crear/actualizar un plan activo.',
     'check_to_make_plan_active' => 'Marque para activar este plan. Solo se permite un plan activo por producto y período.',
     'active_plan_exists_simple' => 'Ya existe un plan activo para este producto y período. Por favor, desactívelo primero.',
+
+    'attempt' => 'Intento',
+    'sent_at' => 'Enviado en',
+    'delivered_at' => 'Entregado en',
 ];
